@@ -1,4 +1,5 @@
-### Hey! 👋
+## 👋 Hey!
+
 I'm a high school senior who's interested in computer science with a focus on projects related to embedded engineering.
 
 I'm currently working on emulating my HID iCLASS door key by using a generic Java Card applet running on my smart ring.
@@ -13,4 +14,11 @@ Some of my recent projects include:
 
 Feel free to check out [my website](https://vigue.me) to catch up with some of my latest projects!
 
-![](https://github-readme-stats.vercel.app/api?username=acvigue&show_icons=true&theme=synthwave&count_private=true)
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=acvigue&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues&count_private=true"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=acvigue"><p>
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=acvigue&icon=5&color=12)](https://visitcount.itsvg.in)
