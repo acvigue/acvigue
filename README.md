@@ -2,9 +2,7 @@
 
 I'm a high school senior who's interested in computer science with a focus on projects related to embedded engineering.
 
-I'm currently working on emulating my HID iCLASS door key by using a generic Java Card applet running on my smart ring.
-
-My next planned project is recreating my [Sand Table V1](https://vigue.me/posts/sand-table-project) with a more compact mechanism to convert it to a more 'desktop' format.
+I'm currently working on recreating my [Sand Table V1](https://vigue.me/posts/sand-table-project) with a more compact mechanism to convert it to a more 'desktop' format.
 
 Some of my recent projects include:
 
