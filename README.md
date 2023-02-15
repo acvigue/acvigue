@@ -18,7 +18,8 @@ Feel free to check out [my website](https://vigue.me) to catch up with some of m
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=acvigue&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues&count_private=true"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=acvigue"><p>
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acvigue&layout=compact&theme=chartreuse-dark&hide=css,starlark"><p>
+
+<p><img src="https://streak-stats.demolab.com?user=acvigue&theme=dark"><p>
 
 [![](https://visitcount.itsvg.in/api?id=acvigue&icon=5&color=12)](https://visitcount.itsvg.in)
