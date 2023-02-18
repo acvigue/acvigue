@@ -20,6 +20,6 @@ Feel free to check out [my website](https://vigue.me) to catch up with some of m
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acvigue&layout=compact&theme=chartreuse-dark&hide=css,starlark"><p>
 
-<p><img src="https://streak-stats.demolab.com?user=acvigue&theme=dark"><p>
+<p><img src="https://streak-stats.demolab.com?user=acvigue&theme=dark&mode=weekly"><p>
 
 [![](https://visitcount.itsvg.in/api?id=acvigue&icon=5&color=12)](https://visitcount.itsvg.in)
