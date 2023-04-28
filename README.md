@@ -10,7 +10,7 @@ Some of my recent projects include:
 - SmartMatrix ([server](https://github.com/acvigue/SmartMatrixServer)/[client](https://github.com/acvigue/SmartMatrix-IDF)), an AWS IoT smart display that displays important information in a timely manner ( C++ w/ a Javascript backend ) [Read more](https://vigue.me/posts/esp32-internet-connected-smart-matrix)
 - Kinetic Sand Coffee Table ([firmware](https://github.com/acvigue/RBotFirmware)/[web ui](https://github.com/acvigue/sandspa3)), a robotic sand table that magically draws patterns using a magnet. ( C++ w/ a Vue frontend ) [Read more](https://vigue.me/posts/kinetic-sand-coffee-table)
 - VolvoCarPlay ([firmware](https://github.com/acvigue/VolvoCarPlay-SAMD)/[canbus](https://github.com/acvigue/VolvoCarPlay-CANBus)/[android](https://github.com/acvigue/VolvoCarPlay-APK)), a custom Android-based head unit with a LVDS switching circuit that integrates with factory stereo and steering wheel controls in a Volvo XC70 ( C++ w/ an Android app ) [Read more](https://vigue.me/posts/adding-apple-carplay-to-a-2013-volvo-xc70)
-- Membox - check it out [here](https://app.membox.cc) ([firmware](https://github.com/acvigue/membox-esp32)/[web ui](https://github.com/acvigue/membox-react)), a scalable IoT project that consists of an electronic "memory box" that displays sent pictures and animations from a smartphone app (C++ w/ a Vue frontend)
+- Membox ([firmware](https://github.com/acvigue/membox-esp32)/[web ui](https://github.com/acvigue/membox-react)), a scalable IoT project that consists of an electronic "memory box" that displays sent pictures and animations from a smartphone app (C++ w/ a Vue frontend)
 
 Feel free to check out [my website](https://vigue.me) to catch up with some of my latest projects!
 
