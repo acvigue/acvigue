@@ -2,7 +2,7 @@
 
 I'm a high school senior who's interested in computer science with a focus on projects related to embedded engineering.
 
-I'm currently working on creating the ESPHomeHub, a hardware device for Home Assistant that integrates many common radio protocols together (Thread, ZWave 800, and Zigbee) Check out my progress [here](https://github.com/acvigue/ESPHomeHub)
+I'm currently working on creating the ESPHomeHub, a hardware device for Home Assistant that integrates many common radio protocols together (Thread, ZWave 800, and Zigbee) Check out my progress [here](https://github.com/acvigue/ESPHomeHub), it's my second project using Altium Designer
 
 > I just finished my Tabletop Sand Robot! Read more about it [here](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad)
 
