@@ -2,9 +2,9 @@
 
 I'm a high school senior who's interested in computer science with a focus on projects related to embedded engineering.
 
-I'm currently working on recreating my [Sand Table V1](https://vigue.me/posts/sand-table-project) with a slimmer mechanism to convert it to a tabletop format. [See the CAD renderings here](https://a360.co/3YDpg0P)
+I'm currently working on creating the ESPHomeHub, a hardware device for Home Assistant that integrates many common radio protocols together (Thread, ZWave 800, and Zigbee) Check out my progress [here](https://github.com/acvigue/ESPHomeHub)
 
-> I just finished the Tabletop Sand Robot! Read more about it [here](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad)
+> I just finished my Tabletop Sand Robot! Read more about it [here](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad)
 
 Some of my recent projects include:
 
