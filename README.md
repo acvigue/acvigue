@@ -2,9 +2,7 @@
 
 I'm a high school senior who's interested in computer science with a focus on projects related to embedded engineering.
 
-I'm currently working on creating the ESPHomeHub, a hardware device for Home Assistant that integrates many common radio protocols together (Thread, ZWave 800, and Zigbee) Check out my progress [here](https://github.com/acvigue/ESPHomeHub), it's my second project using Altium Designer
-
-> I just finished my Tabletop Sand Robot! Read more about it [here](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad)
+> I just finished my Tabletop Kinetic Sand Robot! Read more about it [here](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad)
 
 Some of my recent projects include:
 
@@ -12,7 +10,7 @@ Some of my recent projects include:
 - SmartMatrix ([server](https://github.com/acvigue/SmartMatrixServer)/[client](https://github.com/acvigue/SmartMatrix-IDF)), an ESP-IDF smart display connected with AWS IoT that displays important information in a timely manner ( C++ w/ a JavaScript backend ) [Read more](https://vigue.me/posts/esp32-internet-connected-smart-matrix)
 - Kinetic Sand Coffee Table ([firmware](https://github.com/acvigue/TranquilFirmware)/[web ui](https://github.com/acvigue/TranquilVue)), a robotic sand table that magically draws patterns using a magnet. ( C++ w/ a Vue frontend ) [Read more](https://vigue.me/posts/kinetic-sand-coffee-table)
 - VolvoCarPlay ([firmware](https://github.com/acvigue/VolvoCarPlay-SAMD)/[canbus](https://github.com/acvigue/VolvoCarPlay-CANBus)/[android](https://github.com/acvigue/VolvoCarPlay-APK)), a custom Android-based head unit with a RGB TTL switching circuit that integrates with the factory stereo and steering wheel LIN bus in a Volvo XC70 ( C++ w/ an Android app ) [Read more](https://vigue.me/posts/adding-apple-carplay-to-a-2013-volvo-xc70)
-- Membox ([firmware](https://github.com/acvigue/membox-esp32)/[web ui](https://github.com/acvigue/membox-react)), a scalable IoT project that consists of an electronic "memory box" that displays sent pictures and animations from a smartphone app (C++ w/ a Vue frontend)
+- ESPHomeHub ([PCB files](https://github.com/acvigue/ESPHomeHub)), an ESP32-powered multiprotocol smart home hub with ZWave 800, Zigbee, and Thread support. [Read more](http://vigue.me/posts/esphome-multiprotocol-smart-home-hub)
 
 Feel free to check out [my website](https://vigue.me) to catch up with some of my latest projects!
 
