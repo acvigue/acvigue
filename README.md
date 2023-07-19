@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Aiden
 
-I'm a high school senior who's interested in computer science with a focus on projects related to embedded engineering.
+I'm a freshman at Purdue studying Computer Science with a focus on embedded engineering.
 
 > I just finished my Tabletop Kinetic Sand Robot! Read more about it [here](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad)
 
