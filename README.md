@@ -6,6 +6,7 @@ I'm a freshman at Purdue studying Computer Science with a focus on embedded engi
 
 Some of my recent projects include:
 
+- TesKey ([source](https://github.com/acvigue/TesKey)), a watchOS app for locally controlling a Tesla vehicle over a Bluetooth LE connection. (Swift)
 - Swiftfin - Available on the [Apple App Store](https://apps.apple.com/ca/app/swiftfin/id1604098728) ([source](https://github.com/jellyfin/swiftfin)), an iOS/tvOS frontend for the Jellyfin project that uses modern technologies including VLCKit and SwiftUI
 - SmartMatrix ([server](https://github.com/acvigue/SmartMatrixServer)/[client](https://github.com/acvigue/SmartMatrix-IDF)), an ESP-IDF smart display connected with AWS IoT that displays important information in a timely manner ( C++ w/ a JavaScript backend ) [Read more](https://vigue.me/posts/esp32-internet-connected-smart-matrix)
 - Kinetic Sand Coffee Table ([firmware](https://github.com/acvigue/TranquilFirmware)/[web ui](https://github.com/acvigue/TranquilVue)), a robotic sand table that magically draws patterns using a magnet. ( C++ w/ a Vue frontend ) [Read more](https://vigue.me/posts/kinetic-sand-coffee-table)
