@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Aiden
 
-I'm a freshman at Purdue studying Computer Science with a focus on embedded engineering.
+I'm a student at Purdue studying Computer Science with a focus on embedded engineering.
 
 > I just finished my Tabletop Kinetic Sand Robot! Read the project writeup [here](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad)!
 
