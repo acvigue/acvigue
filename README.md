@@ -2,6 +2,8 @@
 
 I'm a student at Purdue studying Computer Science with a focus on embedded engineering.
 
+Currently, I'm reverse engineering the service port on the newer Jura espresso machines. Why? Because I can.
+
 > I just finished my WiFi Nixie Clock project! Read the project writeup [here](https://vigue.me/posts/nixie-clock)!
 
 Some of my recent projects include:
