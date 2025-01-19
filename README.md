@@ -8,7 +8,7 @@ Currently, I'm reverse engineering the service port on the newer Jura espresso m
 
 Some of my recent projects include:
 
-- **WiFi Nixie Clock** ([source](https://github.com/acvigue/TesKey) ([Project Writeup](https://vigue.me/posts/nixie-clock))
+- **WiFi Nixie Clock** ([source](https://github.com/acvigue/TesKey)) ([Project Writeup](https://vigue.me/posts/nixie-clock))
   - An ESP32-powered WiFi Nixie Clock with addressable backlighting and an embedded USB-C PD sink. (C++)
 - **Desktop Sand Robot** ([Project Writeup](https://vigue.me/posts/tabletop-kinetic-sand-robot-part-1-cad))
   - Smaller version of my Kinetic Sand Coffee Table that acts as a nightstand (C++/Vue)
